@@ -1,3 +1,5 @@
 tweepy
 python-telegram-bot
 transformers
+torch
+torch==2.0.0+cpu
